@@ -1,0 +1,4 @@
+#Agregamos todos los archivos que queremos que git ignore
+
+#Así ignora todos los archivos que terminen en .xopp
+*.xopp
