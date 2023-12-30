@@ -2,3 +2,4 @@
 
 #Así ignora todos los archivos que terminen en .xopp
 *.xopp
+*.pdf
